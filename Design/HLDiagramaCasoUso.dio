@@ -1,0 +1,70 @@
+<mxfile host="65bd71144e">
+    <diagram id="Vi01uPGjg9ASvQCXw18A" name="Page-1">
+        <mxGraphModel dx="909" dy="1564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="HLEcuaFauna2K24A" style="shape=umlFrame;whiteSpace=wrap;html=1;width=130;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="305" y="-1010" width="220" height="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="EntomologoExperto" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="195" y="-860" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="SistemaInformatico" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="625" y="-860" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="experimentar creando hormigas larvas que evolucionan segun el tipo de alimentacion" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="335" y="-960" width="150" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="alimentar a la hormiga con genoAlimento e ingesta nativa" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="335" y="-870" width="150" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="eliminar y guardar el tipo de hormiga creada" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="335" y="-760" width="150" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="3" target="5" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="200" y="-920" as="sourcePoint"/>
+                        <mxPoint x="245" y="-880" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="3" target="6" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="125" y="-840" as="sourcePoint"/>
+                        <mxPoint x="365" y="-905" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="11" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="4" target="6" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="110" y="-830" as="sourcePoint"/>
+                        <mxPoint x="365" y="-815" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="12" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="5" target="4" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="475" y="-895" as="sourcePoint"/>
+                        <mxPoint x="730" y="-880" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3" target="7">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="220" y="-820" as="sourcePoint"/>
+                        <mxPoint x="345.0000000000016" y="-820" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="19" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;entryX=0.989;entryY=0.665;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;entryPerimeter=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4" target="7">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="650" y="-820" as="sourcePoint"/>
+                        <mxPoint x="494.9999999999984" y="-820" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
